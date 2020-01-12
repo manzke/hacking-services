@@ -1,5 +1,5 @@
 # badges
-![](https://github.com/manzke/hacking-services/workflows/Build+Project/badge.svg)
+![](https://github.com/manzke/hacking-services/workflows/Build%20Project/badge.svg)
 
 # hacking-services
 
