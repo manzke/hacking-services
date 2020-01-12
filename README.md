@@ -1,5 +1,5 @@
 # badges
-![](https://github.com/manzke/hacking-services/workflows/build/badge.svg)
+![](https://github.com/manzke/hacking-services/workflows/Build+Project/badge.svg)
 
 # hacking-services
 
@@ -19,3 +19,4 @@ https://github.com/derjust/spring-data-dynamodb
 https://derjust.github.io/spring-data-dynamodb/
 https://www.codeflow.site/de/article/spring-data-dynamodb (german)
 https://github.com/aws/aws-sdk-java-v2
+https://github.com/rieckpil/blog-tutorials/blob/master/.github/workflows/sampleJavaMavenProject.yml
