@@ -1,7 +1,5 @@
 # badges
-![](https://github.com/manzke/hacking-services/workflows/Build%20Project/badge.svg)
-
-[![Actions Status](https://github.com/manzke/hacking-services/workflows/Build%20Project/badge.svg)](https://github.com/{owner}/{repo}/actions)
+[![Actions Status](https://github.com/manzke/hacking-services/workflows/Build%20Project/badge.svg)](https://github.com/manzke/hacking-services/actions)
 
 # hacking-services
 
