@@ -1,3 +1,6 @@
+# badges
+![](https://github.com/manzke/hacking-services/workflows/build/badge.svg)
+
 # hacking-services
 
 mvn clean spring-boot:run
